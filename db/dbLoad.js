@@ -3,8 +3,8 @@ require("dotenv").config();
 
 const models = require("../modelData/models.js");
 
-const User = require("../db/userModel.js");
-const Photo = require("../db/photoModel.js");
+// const User = require("../db/userModel.js");
+// const Photo = require("../db/photoModel.js");
 const SchemaInfo = require("../db/schemaInfo.js");
 
 const versionString = "1.0";
